@@ -10,3 +10,4 @@ The project utilizes Open Source tools and public data available on platforms to
 Our data sets help us finding the precise and most suitable trends of the ever-changing society. We automate the process with the help of data science, by using various statistical techniques like vector similarities, correlations and word embedding techniques. This enables us to understand the trends to assist businesses to introduce the idea or product in that particular society which will help in increasing the probability of desired results.
 
 ## Architecture
+![alt text](https://github.com/rafayullah/Thesis-SociologyAnalysis/blob/main/Architecture.jpg?raw=true)
