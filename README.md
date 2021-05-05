@@ -7,6 +7,8 @@ Since the advent of the internet and social communication, we can use the data g
 
 The project utilizes Open Source tools and public data available on platforms to demonstrate the similarity among them. An alternate product having similar features can be recommended from the millions of recipes or songs present in our database. Coupled with that, we can also enable a workflow by which we can use uses social media platforms like Twitter to find out about the sentiments of that product to score its acceptance amongst a demographic.
 
+We study the cultural shift by demonstrating the change of hotness, tempo, loudness and duration of music over the course of 80 years. Additionally we calculate the average nutrition value present in cuisines from across the globe, and its correlation to the IQ value.
+
 Our data sets help us finding the precise and most suitable trends of the ever-changing society. We automate the process with the help of data science, by using various statistical techniques like vector similarities, correlations and word embedding techniques. This enables us to understand the trends to assist businesses to introduce the idea or product in that particular society which will help in increasing the probability of desired results.
 
 ## Architecture
